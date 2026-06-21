@@ -27,14 +27,14 @@ Drop in a track. Choose your mode. Drag your stems straight into your DAW.
 
 <div align="center">
 
-### Main Interface
-<img src="screenshots/main.png" alt="Fissure Main UI" width="800" />
+### Drop Zone & Mode Selection
+<img src="screenshots/dropzone.png" alt="Fissure Drop Zone" width="800" />
 
 ### Stem Output
 <img src="screenshots/stems.png" alt="Fissure Stem Cards" width="800" />
 
-### Separation History
-<img src="screenshots/history.png" alt="Fissure History Sidebar" width="800" />
+### History Sidebar
+<img src="screenshots/main.png" alt="Fissure History View" width="800" />
 
 </div>
 
